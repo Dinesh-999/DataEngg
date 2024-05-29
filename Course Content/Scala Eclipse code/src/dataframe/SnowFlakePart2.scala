@@ -51,11 +51,11 @@ object SnowFlakePart2 {
       .read
       .format("snowflake")
       .option("sfURL", "https://vvapryv-sg46500.snowflakecomputing.com")
-      .option("sfAccount", "vvapryv")
-      .option("sfUser", "zeyobron")
-      .option("sfPassword", "Zeyo@usa908")
-      .option("sfDatabase", "zeyodb")
-      .option("sfSchema", "zeyoschema")
+      .option("sfAccount", "********")
+      .option("sfUser", "********")
+      .option("sfPassword", "********")
+      .option("sfDatabase", "********")
+      .option("sfSchema", "********")
       .option("sfRole", "ACCOUNTADMIN")
       .option("sfWarehouse", "COMPUTE_WH")
       .option("query", s"""select a.*, c.location from (

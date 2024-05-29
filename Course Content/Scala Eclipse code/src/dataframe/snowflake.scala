@@ -20,10 +20,10 @@ object snowflake {
     val snowdf = spark
       .read
       .format("snowflake")
-      .option("sfURL", "https://vvapryv-sg46500.snowflakecomputing.com")
-      .option("sfAccount", "vvapryv")
-      .option("sfUser", "zeyobron")
-      .option("sfPassword", "Zeyo@usa908")
+      .option("sfURL", "*************")
+      .option("sfAccount", "******")
+      .option("sfUser", "*********")
+      .option("sfPassword", "*********")
       .option("sfDatabase", "zeyodb")
       .option("sfSchema", "zeyoschema")
       .option("sfRole", "ACCOUNTADMIN")
