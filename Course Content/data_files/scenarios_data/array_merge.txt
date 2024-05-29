@@ -1,0 +1,7 @@
+id,subject
+1,Spark
+1,Scala
+1,Hive
+2,Scala
+3,Spark
+3,Scala

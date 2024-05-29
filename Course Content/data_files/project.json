@@ -1,0 +1,337 @@
+{
+    "results": [
+        {
+            "user": {
+                "gender": "female",
+                "name": {
+                    "title": "mademoiselle",
+                    "first": "victoire",
+                    "last": "dufour"
+                },
+                "location": {
+                    "street": "1559 rue de bonnel",
+                    "city": "montpreveyres",
+                    "state": "zürich",
+                    "zip": 3512
+                },
+                "email": "victoire.dufour@example.com",
+                "username": "redfrog197",
+                "password": "alicia",
+                "salt": "gk42JNlG",
+                "md5": "d685f060a3d7f22e61f0e36589396bc2",
+                "sha1": "949e9111e9a93da47cc532523d1bc3400620b115",
+                "sha256": "5f71f7bc20fda9354ac3c819bfb976d0eca2028b4149d616e6fe6c86dcde1c70",
+                "registered": 1317925697,
+                "dob": 723370357,
+                "phone": "(161)-020-9388",
+                "cell": "(992)-543-7675",
+                "AVS": "756.VULG.RZAJ.83",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/25.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/25.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/25.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "male",
+                "name": {
+                    "title": "monsieur",
+                    "first": "mathys",
+                    "last": "lambert"
+                },
+                "location": {
+                    "street": "7431 avenue paul eluard",
+                    "city": "reverolle",
+                    "state": "fribourg",
+                    "zip": 4529
+                },
+                "email": "mathys.lambert@example.com",
+                "username": "smallfrog741",
+                "password": "hoosiers",
+                "salt": "uJizNluM",
+                "md5": "23819be8f5ead617b51763c9b3d7e633",
+                "sha1": "79a36dc818a04c9871c9842dc6ca6af3715e5809",
+                "sha256": "80b456fa54c3f9ea45266c242fe59d8f8cc7b9d08907b3c9b1876f666baa5990",
+                "registered": 958842749,
+                "dob": 1349903958,
+                "phone": "(749)-265-3738",
+                "cell": "(700)-347-0859",
+                "AVS": "756.YBBE.WNNN.04",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/89.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/89.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/89.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "male",
+                "name": {
+                    "title": "monsieur",
+                    "first": "alban",
+                    "last": "philippe"
+                },
+                "location": {
+                    "street": "8585 rue bataille",
+                    "city": "riex",
+                    "state": "aargau",
+                    "zip": 4610
+                },
+                "email": "alban.philippe@example.com",
+                "username": "silverrabbit439",
+                "password": "janelle",
+                "salt": "ha23iw5R",
+                "md5": "7944dfc1fcee9503a3a4ac2ac04b6309",
+                "sha1": "57e5b53ab0d245940fae932851e573ea440be724",
+                "sha256": "005db958b77395bd9047f3c95e3d998cc3f61155cf7ecbacf082bf7158de73b6",
+                "registered": 1024678311,
+                "dob": 276676481,
+                "phone": "(344)-511-2430",
+                "cell": "(737)-840-0245",
+                "AVS": "756.CLOO.XNYI.31",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/87.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/87.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/87.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "male",
+                "name": {
+                    "title": "monsieur",
+                    "first": "corentin",
+                    "last": "lambert"
+                },
+                "location": {
+                    "street": "5830 rue abel-ferry",
+                    "city": "auboranges",
+                    "state": "nidwalden",
+                    "zip": 2444
+                },
+                "email": "corentin.lambert@example.com",
+                "username": "organiccat576",
+                "password": "screw",
+                "salt": "xTIcMItI",
+                "md5": "33e25e68c7139d0c276155add57c6055",
+                "sha1": "e9c72958edb2b2fb69d3a25fe9fb339bbea2bdaf",
+                "sha256": "ffc5bdc336bb362a33019108ac59ea7d39dd93f01d31b16b11cb031cfaabdd4a",
+                "registered": 1412363648,
+                "dob": 1405430459,
+                "phone": "(317)-934-7198",
+                "cell": "(755)-196-0631",
+                "AVS": "756.VZBP.TMGT.39",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/62.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/62.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/62.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "male",
+                "name": {
+                    "title": "monsieur",
+                    "first": "titouan",
+                    "last": "adam"
+                },
+                "location": {
+                    "street": "3709 rue du bon-pasteur",
+                    "city": "mollie-margot",
+                    "state": "schwyz",
+                    "zip": 2003
+                },
+                "email": "titouan.adam@example.com",
+                "username": "silverrabbit845",
+                "password": "trucks",
+                "salt": "rMwU7yQH",
+                "md5": "0b8a47f47f1c4f16b2474e444cbe6e03",
+                "sha1": "057eec0578a917b4ad03a2606151c6e0c37a1c7f",
+                "sha256": "1db1a9fb298edffa80f34ac7774977a7a7c14129b04c8099cbec3b93d903f751",
+                "registered": 1169362277,
+                "dob": 814259160,
+                "phone": "(941)-880-9155",
+                "cell": "(971)-953-7877",
+                "AVS": "756.FIKW.ADKM.41",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/29.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/29.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/29.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "female",
+                "name": {
+                    "title": "mademoiselle",
+                    "first": "sophia",
+                    "last": "thomas"
+                },
+                "location": {
+                    "street": "8116 rue de l'abbé-patureau",
+                    "city": "romanel-sur-lausanne",
+                    "state": "thurgau",
+                    "zip": 5170
+                },
+                "email": "sophia.thomas@example.com",
+                "username": "bigduck105",
+                "password": "karen",
+                "salt": "1TH56FI4",
+                "md5": "0dbca2b1c376a8447cf57abb8f3210ca",
+                "sha1": "98b6c6aeef8c55870a755c83916e49b7c2f895af",
+                "sha256": "f0666d139a4936b71e1030ded8269745aeb867cbe8e3b2af72bad32057aa3c44",
+                "registered": 1357583811,
+                "dob": 1138366690,
+                "phone": "(318)-545-5057",
+                "cell": "(250)-794-4381",
+                "AVS": "756.MKQV.JCEM.67",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/94.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/94.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/94.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "male",
+                "name": {
+                    "title": "monsieur",
+                    "first": "benjamin",
+                    "last": "moulin"
+                },
+                "location": {
+                    "street": "2215 rue de bonnel",
+                    "city": "renens vd 1",
+                    "state": "genève",
+                    "zip": 7121
+                },
+                "email": "benjamin.moulin@example.com",
+                "username": "blueladybug872",
+                "password": "1369",
+                "salt": "ADfrs4mV",
+                "md5": "20f1b0944d7e06dd2280faff6cabb3b6",
+                "sha1": "2bd3870cfea91d7c604b839b62580b7f07e73478",
+                "sha256": "8fbef9b4e69a81e5b466fc09048d88312eef8098b0924a54a733c20b5d17622d",
+                "registered": 919205087,
+                "dob": 586290000,
+                "phone": "(352)-482-4645",
+                "cell": "(278)-668-4942",
+                "AVS": "756.QZEP.ZCDV.11",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/98.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/98.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/98.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "female",
+                "name": {
+                    "title": "mademoiselle",
+                    "first": "norah",
+                    "last": "noel"
+                },
+                "location": {
+                    "street": "2689 rue denfert-rochereau",
+                    "city": "auboranges",
+                    "state": "zug",
+                    "zip": 4893
+                },
+                "email": "norah.noel@example.com",
+                "username": "purplepeacock528",
+                "password": "pang",
+                "salt": "xyR5R38n",
+                "md5": "f9a8b66fac0b3001d787888bdc74cadb",
+                "sha1": "729190b5d74ed2ccdbc1e0d74a0f52ea2a8370c2",
+                "sha256": "b74b833bb5d8b86bf2f8e78e12f2972dc6111e860ef06705acfaf1f77ee047f7",
+                "registered": 1173488809,
+                "dob": 1194985267,
+                "phone": "(166)-250-8274",
+                "cell": "(142)-674-5373",
+                "AVS": "756.BDUZ.PTAM.82",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/2.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/2.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/2.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "female",
+                "name": {
+                    "title": "madame",
+                    "first": "noemie",
+                    "last": "dubois"
+                },
+                "location": {
+                    "street": "8083 rue de l'abbé-grégoire",
+                    "city": "gollion",
+                    "state": "schaffhausen",
+                    "zip": 7586
+                },
+                "email": "noemie.dubois@example.com",
+                "username": "organickoala131",
+                "password": "kingdom",
+                "salt": "EnIkCHan",
+                "md5": "4bfcd169d012addb6cbdc83a643984b9",
+                "sha1": "f201e13975baffc96868700fc917bbd697a8e02b",
+                "sha256": "3b08bc7624c9c68a648ed58f96aeeabf061f3b5e8707274fc195972745be6c2f",
+                "registered": 1316353907,
+                "dob": 1266317176,
+                "phone": "(029)-702-4865",
+                "cell": "(396)-888-6920",
+                "AVS": "756.HONT.DEDG.31",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/54.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/54.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/54.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "female",
+                "name": {
+                    "title": "madame",
+                    "first": "maëlia",
+                    "last": "schmitt"
+                },
+                "location": {
+                    "street": "4385 rue principale",
+                    "city": "poliez-le-grand",
+                    "state": "zug",
+                    "zip": 1788
+                },
+                "email": "maëlia.schmitt@example.com",
+                "username": "goldenrabbit833",
+                "password": "descent",
+                "salt": "jJyb0lsz",
+                "md5": "2b05eda9c523721f302f3d957ddccfd7",
+                "sha1": "0555996ec7b4e2097b5bb0e02cf356b9fd66b5bb",
+                "sha256": "00a84a1dba3dfc2b869f5c2d60ca397fe1921c53704f0e43501d7f2201852323",
+                "registered": 1219742879,
+                "dob": 1052449648,
+                "phone": "(600)-964-6259",
+                "cell": "(276)-557-5604",
+                "AVS": "756.VUSX.MHNW.88",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/43.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/43.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/43.jpg"
+                }
+            }
+        }
+    ],
+    "nationality": "CH",
+    "seed": "6ab0db8063d4960303",
+    "version": "0.8"
+}

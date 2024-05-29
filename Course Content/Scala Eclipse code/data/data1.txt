@@ -1,0 +1,2 @@
+state->karnataka~state->andra~city->bangalore
+state->telangana~state->kerela~city->chennai

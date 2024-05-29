@@ -1,0 +1,6 @@
+id,name,salary,manager_id
+1,John Smith,10000,3
+2,Jane Anderson,12000,3
+3,Tom Lanon,15000,4
+4,Anne Connor,20000,NULL
+5,Jeremy York,9000,1

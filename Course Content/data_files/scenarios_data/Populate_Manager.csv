@@ -1,0 +1,5 @@
+Empid,empname,salary,managerid
+1,xyz,10000,NULL
+2,abc,20000,1
+3,fgkb,30000,2
+4,gfkj,50000,2

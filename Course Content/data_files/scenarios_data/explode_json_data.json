@@ -1,0 +1,48 @@
+{
+	"emp": [{
+			"name": "xyz",
+			"id": 123,
+			"address": [{
+					"line1": "hyderabad",
+					"line2": "ind"
+				},
+				{
+					"line1": "hyderabad"
+				},
+				{
+					"line2": "ind"
+				}
+			]
+		},
+		{
+			"name": "abc",
+			"id": 124,
+			"address": [{
+					"line1": "bng",
+					"line2": "ind"
+				},
+				{
+					"line1": "bng"
+				},
+				{
+					
+				}
+			]
+		},
+		{
+			"name": "jhon",
+			"id": 125,
+			"address": [{
+					"line1": "bng",
+					"line2": "ind"
+				},
+				{
+					"line1": "bng"
+				},
+				{
+					
+				}
+			]
+		}
+	]
+}

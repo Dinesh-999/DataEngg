@@ -1,0 +1,6 @@
+customer_id|^|first_name|^|last_name|^|age|^|country|^|monthly_salary
+1|^|John|^|Doe|^|31|^|USA|^|1000
+2|^|Robert|^|Luna|^|22|^|USA|^|2000
+3|^|David|^|Robinson|^|22|^|UK|^|2500
+4|^|John|^|Reinhardt|^|25|^|UK|^|1500
+5|^|Betty|^|Doe|^|28|^|UAE|^|1200
