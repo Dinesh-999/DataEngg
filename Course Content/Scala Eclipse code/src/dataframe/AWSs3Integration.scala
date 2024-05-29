@@ -20,13 +20,13 @@ object AWSs3Integration {
     val spark = SparkSession.builder().getOrCreate()
     import spark.implicits._
     
-    val df = spark
+    /* val df = spark
       .read
       .format("json")
       .option("fs.s3a.access.key", "*********")
       .option("fs.s3a.secret.key", "********")
       .load("s3a://liyabuck/devices.json")
-    df.show()
+    df.show() */
   }
 
 }
