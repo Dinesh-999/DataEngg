@@ -23,8 +23,8 @@ object AWSs3Integration {
     /* val df = spark
       .read
       .format("json")
-      .option("fs.s3a.access.key", "*********")
-      .option("fs.s3a.secret.key", "********")
+      .option("fs.s3a.access.key", "")
+      .option("fs.s3a.secret.key", "")
       .load("s3a://liyabuck/devices.json")
     df.show() */
   }
