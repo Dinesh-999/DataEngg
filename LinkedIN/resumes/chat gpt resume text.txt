@@ -1,0 +1,62 @@
+[Your Name]
+[Your Address]
+[Your City, State, ZIP Code]
+[Your Email Address]
+[Your Phone Number]
+[LinkedIn Profile]
+
+Objective:
+Dedicated and results-driven Data Engineer with two years of hands-on experience in designing, developing, 
+and maintaining data pipelines using Apache Spark, PySpark, Hive, and AWS services. 
+Adept at optimizing data workflows to ensure data quality and reliability. 
+Seeking a challenging position to contribute my expertise and drive innovation in data engineering.
+
+Professional Experience:
+
+Data Engineer
+[Company Name]
+[Location]
+[Month Year] - Present
+
+- Developed and maintained complex data pipelines using Apache Spark and PySpark, ensuring efficient data processing and analysis.
+- Collaborated with data scientists and analysts to understand data requirements and transform them into scalable, production-ready solutions.
+- Implemented data transformations, aggregations, and cleansing processes to improve data quality and accuracy.
+- Utilized Hive for data warehousing, managing large datasets, and optimizing query performance.
+- Designed and implemented ETL processes to extract, transform, and load data from various sources into AWS data lakes and data warehouses.
+- Implemented data security measures and access controls to protect sensitive information in compliance with company policies and industry regulations.
+- Monitored and optimized Spark jobs for performance, scalability, and resource utilization.
+- Utilized AWS services such as S3, Glue, and EMR for data storage, orchestration, and processing.
+- Automated data workflows and scheduled jobs using Apache Airflow, reducing manual intervention and improving efficiency.
+- Conducted code reviews and mentored junior data engineers to enhance team productivity.
+
+Education:
+
+Bachelor of Science in Computer Science
+[University Name]
+[Location]
+[Graduation Year]
+
+Skills:
+- Programming Languages: Python, Scala
+- Big Data Technologies: Apache Spark, PySpark, Hive
+- Cloud Platforms: Amazon Web Services (AWS)
+- ETL Tools: Apache Nifi, AWS Glue
+- Data Warehousing: Redshift, Snowflake
+- Database Management: SQL, NoSQL (e.g., MongoDB)
+- Data Integration: Apache Kafka, Apache NiFi
+- Data Orchestration: Apache Airflow
+- Version Control: Git
+- Scripting and Automation: Bash, Shell Scripting
+- Data Modeling: ERD, Dimensional Modeling
+- Strong problem-solving and analytical skills
+- Excellent communication and teamwork abilities
+
+Certifications:
+- AWS Certified Data Analytics - Specialty
+- Cloudera Certified Data Engineer (CDE)
+
+References:
+Available upon request.
+
+Note: Customize this resume with specific details about your experience, achievements, and certifications. 
+Be sure to highlight any additional relevant skills or accomplishments that make you stand out as a data engineer.

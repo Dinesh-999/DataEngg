@@ -1,0 +1,263 @@
+Data Engineering :
+-------------------
+https://www.linkedin.com/feed/update/urn:li:activity:7060265600610103296/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7060265600610103296%29
+https://www.linkedin.com/feed/update/urn:li:activity:7060179704305098752/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7060179704305098752%29
+https://www.linkedin.com/feed/update/urn:li:activity:7060226650675818496/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7060226650675818496%29  -- links
+https://www.linkedin.com/feed/update/urn:li:activity:7059513872126214144/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7059513872126214144%29
+https://www.linkedin.com/feed/update/urn:li:activity:7043846247551565824/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7043846247551565824%29  -- youtube links
+https://www.linkedin.com/feed/update/urn:li:activity:7058680000195018752/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7058680000195018752%29   -- links ***
+https://www.linkedin.com/feed/update/urn:li:activity:7057299853873197056/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7057299853873197056%29  -- roadmap
+https://www.linkedin.com/feed/update/urn:li:activity:7057210745129754624/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7057210745129754624%29
+https://www.linkedin.com/feed/update/urn:li:activity:7052497480520777728/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7052497480520777728%29
+https://www.linkedin.com/feed/update/urn:li:activity:7056403035316486144/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7056403035316486144%29  -- roadmap
+https://www.linkedin.com/posts/ajay026_dataengineering-bigdata-data-activity-7026398724205514752-NB28/ -- aws data engineer roadmap
+https://www.linkedin.com/feed/update/urn:li:activity:7054768512287858688/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7054768512287858688%29  -- Data Cleaning techniques - Big Data using Spark!
+https://www.linkedin.com/feed/update/urn:li:activity:7053294748098326528/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7053294748098326528%29  -- roadmap
+https://www.linkedin.com/feed/update/urn:li:activity:7048608491929837568/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7048608491929837568%29 -- roadmap
+https://www.linkedin.com/feed/update/urn:li:activity:7051406560710848512/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7051406560710848512%29  -- roadmap
+https://www.linkedin.com/feed/update/urn:li:activity:7044186601723244544/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7044186601723244544%29
+https://www.linkedin.com/feed/update/urn:li:activity:7052231568051822592/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7052231568051822592%29 -- 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
+https://www.linkedin.com/feed/update/urn:li:activity:7051422119175352320/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7051422119175352320%29 -- Becoming AWS Data Engineer (Quick Guide)
+https://www.linkedin.com/feed/update/urn:li:activity:7042839209702735873/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7042839209702735873%29 -- Big Data Engineering Interview Questions & Answers
+https://www.linkedin.com/feed/update/urn:li:activity:7043058635370827776/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7043058635370827776%29
+https://www.linkedin.com/feed/update/urn:li:activity:7044191211657531394/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7044191211657531394%29 -  #Databricks #SQL for Data Engineering ,Data Science and Machine Learning.
+https://www.linkedin.com/feed/update/urn:li:activity:7048527046360129536/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7048527046360129536%29
+https://www.linkedin.com/feed/update/urn:li:activity:7048130461113462784/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7048130461113462784%29  - AWS DATA ENGINEERING
+https://www.linkedin.com/feed/update/urn:li:activity:7045341708254949376/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7045341708254949376%29 - Roadmap for becoming an Azure Data Engineer in 2023 *******
+https://www.linkedin.com/feed/update/urn:li:activity:7060889009455071232/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7060889009455071232%29
+https://www.linkedin.com/feed/update/urn:li:activity:7024620179393323008/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7024620179393323008%29  - HERE ARE YOUTUBE LINKS TO LEARN DATA ENGINEERING
+https://www.linkedin.com/feed/update/urn:li:activity:7000094400257093632/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7000094400257093632%29 - Big Data Interview Questions and Answers
+https://www.linkedin.com/feed/update/urn:li:activity:6980790621452070912/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6980790621452070912%29 - 𝗕𝗶𝗴 𝗗𝗮𝘁𝗮 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀 & 𝗔𝗻𝘀𝘄𝗲𝗿𝘀
+
+
+
+
+
+
+SQL
+============
+https://www.linkedin.com/feed/update/urn:li:activity:7060849015373897728/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7060849015373897728%29
+https://www.linkedin.com/feed/update/urn:li:activity:7060451783457783808/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7060451783457783808%29
+https://www.linkedin.com/feed/update/urn:li:activity:7060199477613051904/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7060199477613051904%29
+https://www.linkedin.com/feed/update/urn:li:activity:7060087012644528128/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7060087012644528128%29
+https://www.linkedin.com/feed/update/urn:li:activity:7060134663264120833/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7060134663264120833%29
+https://www.linkedin.com/feed/update/urn:li:activity:7060133101359800320/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7060133101359800320%29
+https://www.linkedin.com/feed/update/urn:li:activity:7059892795204919296/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7059892795204919296%29
+https://www.linkedin.com/feed/update/urn:li:activity:7059467686946177025/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7059467686946177025%29
+https://www.linkedin.com/feed/update/urn:li:activity:7059453340455247873/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7059453340455247873%29
+https://www.linkedin.com/feed/update/urn:li:activity:7057946221906198528/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7057946221906198528%29  -- sql leetcode youtube
+https://www.linkedin.com/feed/update/urn:li:activity:7057198077517996032/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7057198077517996032%29  -- sql leetcode
+https://www.linkedin.com/posts/pooja-jain-898253106_sql-data-jobs-activity-7059117138984210432-ZME8?utm_source=share&utm_medium=member_desktop
+https://www.linkedin.com/feed/update/urn:li:activity:7058454060802203649/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7058454060802203649%29
+https://www.linkedin.com/feed/update/urn:li:activity:7057593787576963072/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7057593787576963072%29  -- Optimized performances using SQL Queries
+https://www.linkedin.com/feed/update/urn:li:activity:7057167616498352128/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7057167616498352128%29  -- Top 100 SQL Interview Questions
+https://www.linkedin.com/feed/update/urn:li:activity:7056818605220409344/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7056818605220409344%29 -- Master Cheat Sheet for database
+https://www.linkedin.com/feed/update/urn:li:activity:7055578762964271104/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7055578762964271104%29 -- 800+ SQL Interview Questions
+https://www.linkedin.com/feed/update/urn:li:activity:7051223248696418304/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7051223248696418304%29
+https://www.linkedin.com/feed/update/urn:li:activity:7051071894262886400/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7051071894262886400%29 -- 𝗤𝘂𝗶𝘇 𝗠𝗮𝘁𝗲𝗿𝗶𝗮𝗹: 𝗦𝗤𝗟, 𝗣𝘆𝘁𝗵𝗼𝗻, 𝗔𝘇𝘂𝗿𝗲, 𝗔𝗗𝗙, 𝗦𝗻𝗼𝘄𝗳𝗹𝗮𝗸𝗲
+https://www.linkedin.com/feed/update/urn:li:activity:7043654762558337024/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7043654762558337024%29
+https://www.linkedin.com/feed/update/urn:li:activity:7048640300839309312/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7048640300839309312%29  - 𝗦𝗤𝗟 𝗳𝗼𝗿 𝗗𝗮𝘁𝗮 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴. 𝗔 𝗥𝗼𝗮𝗱𝗺𝗮𝗽 𝗳𝗼𝗿 𝗦𝘂𝗰𝗰𝗲𝘀𝘀
+
+
+
+
+Python Links:
+====================
+https://www.linkedin.com/feed/update/urn:li:activity:7060921083738161152/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7060921083738161152%29
+https://www.linkedin.com/feed/update/urn:li:activity:7056988476931465216/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7056988476931465216%29
+https://www.linkedin.com/feed/update/urn:li:activity:7046138331977400324/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7046138331977400324%29 - Scala Quick Reference
+
+
+
+spark
+============
+https://www.linkedin.com/feed/update/urn:li:activity:7060875018586472448/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7060875018586472448%29
+https://www.linkedin.com/feed/update/urn:li:activity:7060185189288738816/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7060185189288738816%29
+https://www.linkedin.com/feed/update/urn:li:activity:7060207214279503872/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7060207214279503872%29
+https://www.linkedin.com/feed/update/urn:li:activity:7060103708210069504/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7060103708210069504%29
+https://www.linkedin.com/feed/update/urn:li:activity:7059355794072350720/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7059355794072350720%29
+https://www.linkedin.com/feed/update/urn:li:activity:7057666259437424640/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7057666259437424640%29
+https://www.linkedin.com/feed/update/urn:li:activity:7057908719199674368/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7057908719199674368%29
+https://www.linkedin.com/feed/update/urn:li:activity:7057098888712794113/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7057098888712794113%29
+https://www.linkedin.com/feed/update/urn:li:activity:7056606689155837952/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7056606689155837952%29
+https://www.linkedin.com/feed/update/urn:li:activity:7056605929462534145/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7056605929462534145%29
+https://www.linkedin.com/feed/update/urn:li:activity:7056607605833535488/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7056607605833535488%29
+https://www.linkedin.com/feed/update/urn:li:activity:7056606332338016256/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7056606332338016256%29
+https://www.linkedin.com/feed/update/urn:li:activity:7056137210101739520/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7056137210101739520%29 -- SQL and PySpark have difference
+https://www.linkedin.com/feed/update/urn:li:activity:6940338353649115136/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6940338353649115136%29  -- resources
+https://www.linkedin.com/feed/update/urn:li:activity:7051795484356587520/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7051795484356587520%29  -- PySpark Interview Questions and Answers
+https://www.linkedin.com/feed/update/urn:li:activity:7051413398269411328/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7051413398269411328%29 -- Complete Pyspark Real Time Scenarios Videos.
+https://www.linkedin.com/feed/update/urn:li:activity:7045432580724113408/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7045432580724113408%29 - PySpark Quick Reference Guide
+https://www.linkedin.com/feed/update/urn:li:activity:7049361767830818816/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7049361767830818816%29 - Apache Spark - Dataframes and Spark SQL
+https://www.linkedin.com/feed/update/urn:li:activity:7058734471356809216/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7058734471356809216%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29 -- spark history
+
+
+
+storage
+========
+https://www.linkedin.com/feed/update/urn:li:activity:7060865533889445888/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7060865533889445888%29
+https://www.linkedin.com/feed/update/urn:li:activity:7059195061237944320/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7059195061237944320%29
+https://www.linkedin.com/feed/update/urn:li:activity:7056925071713452033/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7056925071713452033%29
+
+
+cloud
+===========
+https://www.linkedin.com/feed/update/urn:li:activity:7059616073620332544/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7059616073620332544%29
+https://www.linkedin.com/feed/update/urn:li:activity:7058840233764601856/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7058840233764601856%29
+https://www.linkedin.com/feed/update/urn:li:activity:7056817245217316864/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7056817245217316864%29 -- Top 250+ Interview Questions on AWS
+https://www.linkedin.com/feed/update/urn:li:activity:7056454396607422464/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7056454396607422464%29 -- Free AWS Courses
+https://www.linkedin.com/feed/update/urn:li:activity:7056646382442446848/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7056646382442446848%29  -- Microsoft Azure DP-203 Questions & Answers
+https://www.linkedin.com/feed/update/urn:li:activity:7048542148954071040/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7048542148954071040%29  --  FREE Udemy courses to master Azure and become Expert
+https://www.linkedin.com/feed/update/urn:li:activity:7055979590736842752/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7055979590736842752%29  -- AWS CHEAT SHEET
+https://www.linkedin.com/feed/update/urn:li:activity:7055625759557640192/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7055625759557640192%29 -- MICROSOFT INTERVIEW GUIDE
+https://www.linkedin.com/feed/update/urn:li:activity:7055571836973031424/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7055571836973031424%29 -- AWS Solution Architect dumps
+https://www.linkedin.com/feed/update/urn:li:activity:7051486539268149249/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7051486539268149249%29
+https://www.linkedin.com/feed/update/urn:li:activity:7045814204041207808/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7045814204041207808%29 -- Free AWS Solutions Architect Certification Exam Questions
+https://www.linkedin.com/feed/update/urn:li:activity:7046733253906444288/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7046733253906444288%29 - Azure Data Engineering - Exam DP 203 Cheat Sheet
+https://www.linkedin.com/feed/update/urn:li:activity:7047117862775271425/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7047117862775271425%29 - AWS Solution Architect Associate Exam Dumps (500 Questions)
+https://www.linkedin.com/feed/update/urn:li:activity:7050123140735090688/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7050123140735090688%29 - Hands on - Azure Functions
+https://www.linkedin.com/feed/update/urn:li:activity:7049920415879553024/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7049920415879553024%29 - AZURE interview questions
+https://www.linkedin.com/feed/update/urn:li:activity:7035551120559071232/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7035551120559071232%29
+https://www.linkedin.com/feed/update/urn:li:activity:7009778189463916544/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7009778189463916544%29 
+https://www.linkedin.com/feed/update/urn:li:activity:7006635726477901824/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7006635726477901824%29 - Azure DevOps
+
+
+
+kafka
+=========
+https://www.linkedin.com/feed/update/urn:li:activity:7055437298141708288/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7055437298141708288%29 -- see all series
+https://www.linkedin.com/feed/update/urn:li:activity:7054464138919485440/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7054464138919485440%29
+https://www.linkedin.com/feed/update/urn:li:activity:7052176141532475392/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7052176141532475392%29
+https://www.linkedin.com/feed/update/urn:li:activity:7053998532147441664/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7053998532147441664%29
+https://www.linkedin.com/feed/update/urn:li:activity:7051527366682058752/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7051527366682058752%29  -- airflow
+https://www.linkedin.com/feed/update/urn:li:activity:7051457195959349249/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7051457195959349249%29 -- airflow
+
+
+
+leetcode:
+============
+https://www.linkedin.com/feed/update/urn:li:activity:7059378792460394496/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7059378792460394496%29  -- java
+https://www.linkedin.com/feed/update/urn:li:activity:7055498117848215552/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7055498117848215552%29  -- 𝗟𝗲𝗲𝘁𝗖𝗼𝗱𝗲 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀 𝗶𝗻 𝗝𝗮𝘃𝗮
+https://www.linkedin.com/feed/update/urn:li:activity:7052187016947539968/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7052187016947539968%29  -- LeetCode Solutions (Topic wise) python
+https://www.linkedin.com/feed/update/urn:li:activity:7039081216649617408/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7039081216649617408%29 
+https://www.linkedin.com/feed/update/urn:li:activity:7036515389719097345/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7036515389719097345%29
+
+
+
+
+others
+=============
+https://www.linkedin.com/feed/update/urn:li:activity:7059388878872297472/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7059388878872297472%29 -- Courses to Learn Data Visualization and Advanced Data Analytics
+https://www.linkedin.com/feed/update/urn:li:activity:7059211325545054208/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7059211325545054208%29  --  Resilient Distributed Datasets (RDDs)
+https://www.linkedin.com/feed/update/urn:li:activity:7054019490858098690/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7054019490858098690%29  --  end-to-end data pipeline project, Crypto Data Pipeline
+https://www.linkedin.com/feed/update/urn:li:activity:7059033890975285250/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7059033890975285250%29  -- modern data engineering project is executed and build your resume!
+https://www.linkedin.com/feed/update/urn:li:activity:7058757499226599424/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7058757499226599424%29  -- 250 Core Java Interview Questions with Answers
+https://www.linkedin.com/feed/update/urn:li:activity:7058281311332962304/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7058281311332962304%29 -- FREE Programming Cheat Sheets 
+https://www.linkedin.com/feed/update/urn:li:activity:7058093864309407744/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7058093864309407744%29  -- DSA Sheet
+https://www.linkedin.com/feed/update/urn:li:activity:7057358648494190593/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7057358648494190593%29  --  datasets to perform Data Cleaning, Exploratory Data Analysis
+https://www.linkedin.com/feed/update/urn:li:activity:7056846733141585920/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7056846733141585920%29  -- Top 50 Data Structures Interview Questions & Answers
+https://www.linkedin.com/feed/update/urn:li:activity:7056458452247691265/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7056458452247691265%29 -- 𝗧𝗢𝗣 𝟮𝟳 𝗖𝗢𝗠𝗠𝗢𝗡 𝗝𝗢𝗕 𝗜𝗡𝗧𝗘𝗥𝗩𝗜𝗘𝗪 𝗤𝗨𝗘𝗦𝗧𝗜𝗢𝗡𝗦 & 𝗔𝗡𝗦𝗪𝗘𝗥𝗦 
+https://www.linkedin.com/feed/update/urn:li:activity:7054444933247627266/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7054444933247627266%29
+https://www.linkedin.com/feed/update/urn:li:activity:7056440451960098816/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7056440451960098816%29 -- Azure Data Engineer Study Note
+https://www.linkedin.com/feed/update/urn:li:activity:7048542148954071040/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7048542148954071040%29  -- cloud 
+https://www.linkedin.com/feed/update/urn:li:activity:7055856866479767552/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7055856866479767552%29  -- Data Engineering must to know important concepts and basics
+https://www.linkedin.com/feed/update/urn:li:activity:7055843775813722112/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7055843775813722112%29 -- TERRAFORM
+https://www.linkedin.com/feed/update/urn:li:activity:7055133072630964224/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7055133072630964224%29  -- all cheatsheet
+https://www.linkedin.com/feed/update/urn:li:activity:7053673458936758272/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7053673458936758272%29  -- KUBERNETES CHEAT SHEET
+https://www.linkedin.com/feed/update/urn:li:activity:7052742174601293824/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7052742174601293824%29  -- devops
+https://www.linkedin.com/feed/update/urn:li:activity:7052809095925440512/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7052809095925440512%29 -- Top 50 Python Interview Questions
+https://www.linkedin.com/feed/update/urn:li:activity:7052428459461001216/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7052428459461001216%29  -- apis
+https://www.linkedin.com/feed/update/urn:li:activity:7050678915610066944/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7050678915610066944%29 - java full stack
+https://www.linkedin.com/feed/update/urn:li:activity:7047504932484128768/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7047504932484128768%29 - 10 FREE Datasets to start building your Portfolio
+https://www.linkedin.com/feed/update/urn:li:activity:7045033100027793408/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7045033100027793408%29 - selenium cheatsheet
+https://www.linkedin.com/feed/update/urn:li:activity:7047075754248974338/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7047075754248974338%29 - postman cheatsheet
+https://www.linkedin.com/feed/update/urn:li:activity:7045990330172612609/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7045990330172612609%29 -  Power BI 
+https://www.linkedin.com/feed/update/urn:li:activity:7036511753354027008/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7036511753354027008%29 - Manual Testing Pdfs
+https://www.linkedin.com/feed/update/urn:li:activity:7034883448834076673?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7034883448834076673%29 - CV Writing Tools
+https://www.linkedin.com/feed/update/urn:li:activity:7028013677169520640/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7028013677169520640%29 - Terraform 
+https://www.linkedin.com/feed/update/urn:li:activity:7027088636567314432/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7027088636567314432%29 - API TESTING
+https://www.linkedin.com/feed/update/urn:li:activity:7025322552918970368/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7025322552918970368%29 - Manual testing document
+https://www.linkedin.com/feed/update/urn:li:activity:7023129688478728192/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7023129688478728192%29 - All Compay Placement Material Free
+https://www.linkedin.com/feed/update/urn:li:activity:7020703110847221760/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7020703110847221760%29 - Difference between Test Plan and Test Strategy
+https://www.linkedin.com/feed/update/urn:li:activity:7019258587386376192/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7019258587386376192%29
+https://www.linkedin.com/feed/update/urn:li:activity:7019196223915966465/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7019196223915966465%29 - To learn Manual Testing Concepts.
+https://www.linkedin.com/feed/update/urn:li:activity:7017036639864545280/  - resume
+https://www.linkedin.com/feed/update/urn:li:activity:7016733789502488576/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7016733789502488576%29  - Data Structures and Algorithms Cheatsheet
+https://www.linkedin.com/feed/update/urn:li:activity:7010545826804461568/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7010545826804461568%29 
+https://www.linkedin.com/feed/update/urn:li:activity:7010873306803257344/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7010873306803257344%29 - 𝐋𝐢𝐧𝐤𝐞𝐝 𝐋𝐢𝐬𝐭 𝐍𝐨𝐭𝐞
+https://www.linkedin.com/feed/update/urn:li:activity:6997897988136136705/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6997897988136136705%29 - Answers To Toughest Interview Questions
+https://www.linkedin.com/feed/update/urn:li:activity:6976047888606871552/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6976047888606871552%29 - Excel cheat sheet
+https://www.linkedin.com/feed/update/urn:li:activity:6974988771519856640/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6974988771519856640%29 - 𝑷𝒓𝒐𝒃𝒍𝒆𝒎𝒔 𝒐𝒏 𝑻𝒓𝒆𝒆 𝐪𝐮𝐢𝐜𝐤 𝐫𝐞𝐯𝐢𝐬𝐢𝐨𝐧 𝐬𝐞𝐥𝐟 𝐦𝐚𝐝𝐞 𝐧𝐨𝐭𝐞𝐬
+https://www.linkedin.com/feed/update/urn:li:activity:6973547943903551488/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6973547943903551488%29 - 9 CSS generators can save you from writing CSS Code
+
+
+
+
+Databricks
+================
+https://www.linkedin.com/feed/update/urn:li:activity:7059141364713754624/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7059141364713754624%29
+https://www.linkedin.com/feed/update/urn:li:activity:7052150922667335680/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7052150922667335680%29
+https://www.linkedin.com/feed/update/urn:li:activity:7057559065807253504/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7057559065807253504%29 -- youtube
+https://www.linkedin.com/feed/update/urn:li:activity:7057273246156529664/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7057273246156529664%29
+
+
+
+
+snowflake
+============
+https://www.linkedin.com/feed/update/urn:li:activity:7058720674902589441/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7058720674902589441%29
+
+
+
+
+react 
+===========
+https://www.linkedin.com/feed/update/urn:li:activity:7056857985448378368/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7056857985448378368%29
+https://www.linkedin.com/feed/update/urn:li:activity:7056830532877266944/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7056830532877266944%29
+https://www.linkedin.com/feed/update/urn:li:activity:7055050019833352192/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7055050019833352192%29
+https://www.linkedin.com/feed/update/urn:li:activity:7054724302444609536/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7054724302444609536%29 -- React Interview Questions!
+https://www.linkedin.com/feed/update/urn:li:activity:7050813110659538944/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7050813110659538944%29 - 𝐏𝐫𝐞𝐩𝐚𝐫𝐢𝐧𝐠 𝐟𝐨𝐫 𝐚 𝐑𝐞𝐚𝐜𝐭𝐉𝐒 𝐢𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰?
+https://www.linkedin.com/feed/update/urn:li:activity:7035874451502055424/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7035874451502055424%29 - Different Ways To Fetch Data in React JS
+https://www.linkedin.com/feed/update/urn:li:activity:7034160476049567745/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7034160476049567745%29 - CSS is hard! Not anymore.
+
+
+
+interview
+============
+https://www.linkedin.com/feed/update/urn:li:activity:6937439686042734592?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6937439686042734592%29
+https://www.linkedin.com/feed/update/urn:li:activity:7054724456534941698/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7054724456534941698%29 -- Interview QnAs Collection for Data Engineering
+https://www.linkedin.com/feed/update/urn:li:activity:7055011139193102336/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7055011139193102336%29  -- 𝗧𝗢𝗣 𝟯𝟳 𝗧𝗢𝗨𝗚𝗛𝗘𝗦𝗧 𝗖𝗢𝗠𝗠𝗢𝗡 𝗝𝗢𝗕 𝗜𝗡𝗧𝗘𝗥𝗩𝗜𝗘𝗪 𝗤𝗨𝗘𝗦𝗧𝗜𝗢𝗡𝗦 & 𝗔𝗡𝗦𝗪𝗘𝗥𝗦
+https://www.linkedin.com/feed/update/urn:li:activity:7043067582987325440/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7043067582987325440%29 - 12 Toughest Questions to Crack your Next Interview
+https://www.linkedin.com/feed/update/urn:li:activity:7030788064822140928/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7030788064822140928%29 - resume
+https://www.linkedin.com/feed/update/urn:li:activity:6993443704388689920?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6993443704388689920%29 - material links
+https://www.linkedin.com/feed/update/urn:li:activity:6974617204218613761?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6974617204218613761%29
+https://www.linkedin.com/feed/update/urn:li:activity:6972913217371037696/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6972913217371037696%29
+https://www.linkedin.com/feed/update/urn:li:activity:6966331793754992641/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6966331793754992641%29
+https://www.linkedin.com/feed/update/urn:li:activity:6961586685306388480/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6961586685306388480%29
+https://www.linkedin.com/feed/update/urn:li:activity:6965879521690431488/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6965879521690431488%29 - 𝐆𝐨𝐨𝐠𝐥𝐞 𝐋𝐞𝐞𝐭𝐜𝐨𝐝𝐞 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬 𝐰𝐢𝐭𝐡 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬 𝐏𝐚𝐫𝐭 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

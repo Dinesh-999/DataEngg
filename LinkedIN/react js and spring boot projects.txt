@@ -1,0 +1,104 @@
+react js
+============
+https://github.com/reduction-admin/react-reduction
+https://github.com/oldboyxx/jira_clone
+https://github.com/atulmy/crate
+https://github.com/jgudo/ecommerce-react
+https://github.com/mishast/FoodDelivery
+https://github.com/dinushchathurya/e-commerce-site
+https://github.com/AneeshaRama/ReactJS-ReduxToolkit-Shopping-cart
+https://github.com/soulsurya/amazon-clone
+https://github.com/KeyurDiwan/myntra-clone
+
+https://github.com/jeffersonRibeiro/react-shopping-cart
+https://github.com/MohitSojitra/react-blog-website
+https://github.com/piyush-eon/react-entertainment-hub
+https://github.com/meabhisingh/mernProjectEcommerce
+https://github.com/theindianappguy/recipe-app-reactjs
+https://github.com/agusdelva/social-media-dashboard
+
+https://github.com/jeffersonRibeiro/react-shopping-cart -- typescript
+
+using public apis build projects - ideas
+https://flatlogic.com/templates?ref=w7yTz44arn - for templates
+
+
+spring boot
+=============
+https://github.com/givanthak/spring-boot-rest-api-tutorial -- completed
+https://github.com/osopromadze/Spring-Boot-Blog-REST-API
+https://github.com/bzdgn/spring-boot-restful-web-service-example --- completed
+https://github.com/varuncbv/SpringBootRestAPIHibernateJPAMYSQLTutorial -- errors
+https://github.com/naveenkulkarni029/spring-boot-employee-service --- domt need
+
+
+https://github.com/RameshMF/ReactJS-Spring-Boot-CRUD-Full-Stack-App -- 
+https://www.javaguides.net/2020/07/spring-boot-react-js-crud-example-tutorial.html -- 
+https://github.com/RameshMF/spring-security-react-ant-design-polls-app
+https://github.com/RameshMF/registration-login-springboot-security-thymeleaf
+
+
+https://github.com/koushikkothagal/spring-security-jpa
+https://github.com/Yoh0xFF/java-spring-security-example
+https://github.com/Serhx4/burger-hub
+https://github.com/anuj7sharma/spring-boot-security
+https://github.com/GhaidaaShtayeh/Invoices-System
+https://github.com/bezkoder/spring-boot-spring-security-jwt-authentication
+https://github.com/vkirodian/springboot-security
+https://github.com/bezkoder/spring-boot-refresh-token-jwt
+https://github.com/bezkoder/spring-boot-exception-handling
+https://github.com/RameshMF/student-management-system-springboot
+
+https://github.com/lakshygupta/Blog-App-APIs --- try later
+https://github.com/mohitkumarsahni/todo-api  --- try later
+
+
+spring boot mvc projects
+spring boot security projects
+spring boot rest-exception projects
+spring boot projects, covering all topics
+make a project which depends on another tables, and make more api controller links, security
+onetoone onetomany many toone
+
+
+https://github.com/saurabh-vaish/SpringBoot
+https://github.com/RameshMF/spring-boot-tutorial
+https://github.com/Urunov/SpringBoot-Projects-FullStack
+https://github.com/RameshMF/FaceBook-Clone-React-SpringBoot
+https://github.com/osopromadze/Spring-Boot-Blog-REST-API/tree/master/src/main/java/com/sopromadze/blogapi/exception
+
+
+Use Spring Boot to build a Web Application
+Create REST Service for an Education Site
+Create an Employee Management System (Using Spring Boot and Thymeleaf)
+Work on the Open-source Project Sagan
+Create a Web App with Spring Boot Starter Web
+Use LDAP to Authenticate a User
+Create a Contact Us Page (Handle Form Submission)
+
+
+spring boot mvc projects
+spring boot security projects
+spring boot rest-exception projects
+spring boot projects, covering all topics
+make a project which depends on another tables, and make more api controller links, security
+datajpa, heiberante validator
+Jstl, jsp
+
+
+javax.validation, javax.persistance
+college management project
+student- id, firstname, lastname, department, phonenumber, address, email 
+teacher -id, firstname, lastname, department, phonenumber, address, email, subjects
+hod - id, firstname, lastname, department, phonenumber, address, email
+department - id, name, hod
+college-  name , department, branch
+projectwithallproperties
+
+
+
+
+
+
+
+
